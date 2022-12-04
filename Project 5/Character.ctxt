@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ Character\ Class\ \n\ Elements\ Game\ by\ Aiden\ Lewandowski.\n
+comment1.params=name\ damage\ element\ health
+comment1.target=Character(java.lang.String,\ int,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ elementorder()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=n
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=int\ getDamage()
+comment5.params=d
+comment5.target=void\ setDamage(int)
+comment6.params=
+comment6.target=int\ getHealth()
+comment7.params=h
+comment7.target=void\ setHealth(int)
+comment8.params=
+comment8.target=java.lang.String\ getElement()
+comment9.params=element
+comment9.target=void\ setElement(java.lang.String)
+numComments=11
